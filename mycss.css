@@ -1,0 +1,22 @@
+.container-fluid{
+  margin-top:10px;
+}
+.date{
+  font-weight: bold;
+}
+.temperature{
+  font-size:5em;
+}
+
+/*--------------------------------------*/
+.btn-default
+{
+	position:relative;
+	font-weight: bold;
+}
+#dropdown
+{
+	list-style-type:none;
+	float: left;
+	position: absolute;
+}
