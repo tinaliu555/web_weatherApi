@@ -1,4 +1,6 @@
 # wp2016s_assign5
+作業連結網址:http://tinaliu555.github.io/web_weatherApi/weather.html
+
 作業說明：https://goo.gl/zP0AOq
 
 
